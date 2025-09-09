@@ -4395,7 +4395,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ed239a4e-bca4-48ce-8468-21588797532d")
 		(property "Reference" "FB2"
 			(at 219.6719 95.25 90)
