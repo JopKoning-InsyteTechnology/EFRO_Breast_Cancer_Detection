@@ -1646,7 +1646,7 @@
 		(uuid "13642fba-a735-48ce-abcc-dafc87f3607d")
 	)
 	(label "CC2"
-		(at 144.78 26.67 90)
+		(at 139.7 26.67 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1666,7 +1666,7 @@
 		(uuid "341a5524-625d-49f4-a98b-e341e478328b")
 	)
 	(label "CC1"
-		(at 139.7 26.67 90)
+		(at 144.78 26.67 90)
 		(effects
 			(font
 				(size 1.27 1.27)

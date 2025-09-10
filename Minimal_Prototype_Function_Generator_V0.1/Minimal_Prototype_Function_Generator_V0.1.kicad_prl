@@ -2,7 +2,7 @@
   "board": {
     "active_layer": 0,
     "active_layer_preset": "",
-    "auto_track_width": true,
+    "auto_track_width": false,
     "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -20,7 +20,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": false,
+      "lockedItems": true,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -122,7 +122,7 @@
     "files": [
       {
         "name": "Minimal_Prototype_Function_Generator_V0.1.kicad_sch",
-        "open": false,
+        "open": true,
         "window": {
           "display": 1,
           "maximized": true,
@@ -134,7 +134,7 @@
       },
       {
         "name": "Minimal_Prototype_Function_Generator_V0.1.kicad_pcb",
-        "open": false,
+        "open": true,
         "window": {
           "display": 2,
           "maximized": true,
