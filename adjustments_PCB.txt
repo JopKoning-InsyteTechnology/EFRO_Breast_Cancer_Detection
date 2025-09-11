@@ -1,8 +1,7 @@
-1. SMPS (power supply), put inductor in immediate vicinity of the pin (check datasheet suggested placement).
-2. Match impedance of diff pair.
-3. Delete trace under the inductor.
-4. Space out the connectors.
-5. Stitch vias, silksc.
-6. Check len of diff pair.
-7. Separate I/O conns.
-8. 
++ 1. SMPS (power supply), put inductor in immediate vicinity of the pin (check datasheet suggested placement).
++ 2. Match impedance of diff pair.
++ 3. Delete trace under the inductor.
++ 4. Space out the connectors, give them descriptive names.
++ 5. Stitch vias, silksc.
++ 6. Check len of diff pair.
++ 7. Add Insyte logo.
