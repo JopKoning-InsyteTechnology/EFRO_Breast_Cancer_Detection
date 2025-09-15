@@ -7265,15 +7265,15 @@
 	(symbol
 		(lib_id "Jumper:Jumper_3_Open")
 		(at 95.25 64.77 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "bc14fd01-6271-45ff-a0a0-f3526137666d")
 		(property "Reference" "JP2"
-			(at 92.71 66.0401 90)
+			(at 92.202 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7282,7 +7282,7 @@
 			)
 		)
 		(property "Value" "Jumper_3_Open"
-			(at 92.71 63.5001 90)
+			(at 92.202 66.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)

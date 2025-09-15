@@ -1359,6 +1359,16 @@
 		)
 		(uuid f8eb1a3a-e35b-48ce-9f38-77c073b6fd5c)
 	)
+	(text "Impedance calculation for USB4500-03-0-A:\n(USB2.0 protocol requires 90Ohm diff. impedance and max 0.1mm length discrepancy)\nJLC impedance calculator for board JLC04161H-7628\n(differential pair, non-coplanar)\nFor track spacing 0.2mm, track width is 0.2840mm"
+		(exclude_from_sim no)
+		(at 61.214 91.948 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "28f2a497-3b70-41e6-a553-9291416106c0")
+	)
 	(text "ESD"
 		(exclude_from_sim no)
 		(at 109.982 16.764 0)
