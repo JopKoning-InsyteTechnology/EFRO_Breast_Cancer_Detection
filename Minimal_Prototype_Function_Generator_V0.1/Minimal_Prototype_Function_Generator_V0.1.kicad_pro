@@ -58,56 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "copper_edge_clearance|100250000|37200000|70cbf853-650c-4aa6-a1d6-3030cc47df0d|27dceb5d-9520-43d1-a12b-a6a6c8e26d59",
-          ""
-        ],
-        [
-          "copper_edge_clearance|93850000|37200000|70cbf853-650c-4aa6-a1d6-3030cc47df0d|0e44854f-a4f7-4c2d-9cb9-4271b3010f8c",
-          ""
-        ],
-        [
-          "copper_edge_clearance|94650000|37200000|70cbf853-650c-4aa6-a1d6-3030cc47df0d|81f3b40c-9961-410c-8fd2-6c04f9318342",
-          ""
-        ],
-        [
-          "copper_edge_clearance|95450000|37200000|70cbf853-650c-4aa6-a1d6-3030cc47df0d|3b713848-a6d1-435b-9aba-83133f66e1c6",
-          ""
-        ],
-        [
-          "copper_edge_clearance|95950000|37200000|70cbf853-650c-4aa6-a1d6-3030cc47df0d|9c833e0f-370d-4639-bc9b-4cef8d4820fa",
-          ""
-        ],
-        [
-          "copper_edge_clearance|96450000|37200000|70cbf853-650c-4aa6-a1d6-3030cc47df0d|395f4ae0-e09e-4ce3-9033-ffffa3d6f9c3",
-          ""
-        ],
-        [
-          "copper_edge_clearance|96950000|37200000|70cbf853-650c-4aa6-a1d6-3030cc47df0d|529d1781-aae9-49dd-849e-ebe0d5a0edcb",
-          ""
-        ],
-        [
-          "copper_edge_clearance|97450000|37200000|70cbf853-650c-4aa6-a1d6-3030cc47df0d|a57db939-2317-4fca-a13b-a34b8fc454c0",
-          ""
-        ],
-        [
-          "copper_edge_clearance|97950000|37200000|70cbf853-650c-4aa6-a1d6-3030cc47df0d|a0cf0474-8c34-4662-92f9-59f1ff837366",
-          ""
-        ],
-        [
-          "copper_edge_clearance|98450000|37200000|70cbf853-650c-4aa6-a1d6-3030cc47df0d|53cf11b8-cb9d-4332-9937-0cd41684f297",
-          ""
-        ],
-        [
-          "copper_edge_clearance|98950000|37200000|70cbf853-650c-4aa6-a1d6-3030cc47df0d|9ccfe828-330d-4de6-9c96-a16c1af4fdbb",
-          ""
-        ],
-        [
-          "copper_edge_clearance|99450000|37200000|70cbf853-650c-4aa6-a1d6-3030cc47df0d|248c791b-20c6-427b-86f7-803f1c57b12d",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -256,16 +207,16 @@
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
           "corner_style": 1,
-          "max_amplitude": 3.0,
-          "min_amplitude": 0.01,
+          "max_amplitude": 1.0,
+          "min_amplitude": 0.2,
           "single_sided": false,
-          "spacing": 0.1
+          "spacing": 1.0
         },
         "diff_pair_skew_defaults": {
           "corner_radius_percentage": 80,
           "corner_style": 1,
-          "max_amplitude": 3.0,
-          "min_amplitude": 0.01,
+          "max_amplitude": 1.0,
+          "min_amplitude": 0.2,
           "single_sided": false,
           "spacing": 0.6
         },
@@ -565,7 +516,7 @@
         "microvia_drill": 0.1,
         "name": "Power",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 2,
+        "priority": 1,
         "schematic_color": "rgb(255, 39, 54)",
         "track_width": 0.5,
         "via_diameter": 0.6,
@@ -577,23 +528,9 @@
         "line_style": 0,
         "name": "RF",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 1,
+        "priority": 0,
         "schematic_color": "rgb(53, 56, 255)",
         "wire_width": 6
-      },
-      {
-        "clearance": 0.15,
-        "diff_pair_gap": 0.3,
-        "diff_pair_width": 0.1735,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "USB",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
-        "via_diameter": 0.6,
-        "via_drill": 0.35
       }
     ],
     "meta": {
@@ -613,10 +550,6 @@
       {
         "netclass": "Power",
         "pattern": "*Batt*"
-      },
-      {
-        "netclass": "USB",
-        "pattern": ".*D[+-]"
       }
     ]
   },

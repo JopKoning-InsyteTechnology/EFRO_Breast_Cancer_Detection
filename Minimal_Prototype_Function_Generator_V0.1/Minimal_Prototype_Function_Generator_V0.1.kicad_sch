@@ -494,6 +494,266 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 438.404 101.5257)
+		(end 677.799 119.3057)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 0857f0a0-7903-415a-8af9-33dfb91b1433)
+	)
+	(rectangle
+		(start 438.404 83.7457)
+		(end 677.799 101.5257)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 0f486a9b-03c7-40ef-884d-1421d3c9e47c)
+	)
+	(rectangle
+		(start 438.277 12.4987)
+		(end 677.672 30.2787)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 159299c0-4b51-49fe-a5ef-c24962690d10)
+	)
+	(rectangle
+		(start 468.122 4.8787)
+		(end 497.967 353.4937)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 34191cb9-1923-491d-9d03-c99886167f73)
+	)
+	(rectangle
+		(start 438.277 4.8787)
+		(end 677.672 353.4937)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 587b8585-07b7-469c-8c48-447f288361aa)
+	)
+	(rectangle
+		(start 438.277 4.8787)
+		(end 468.122 353.4937)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 77dce640-e9b6-40ff-8762-df2006d1805a)
+	)
+	(rectangle
+		(start 438.277 30.2787)
+		(end 677.672 48.0587)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 84c96947-f990-4d71-99e1-075dbf7b8b9d)
+	)
+	(rectangle
+		(start 438.277 48.0587)
+		(end 677.672 65.8387)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 854b87da-ff08-4420-b48b-9eafefb86128)
+	)
+	(rectangle
+		(start 438.15 138.1017)
+		(end 677.545 155.8817)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid ae10c75a-7b39-4f46-8902-28cf5dd6b521)
+	)
+	(rectangle
+		(start 682.371 4.8787)
+		(end 818.896 115.3687)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid c186db2a-4f1f-43f8-ae6b-87849df985c4)
+	)
+	(rectangle
+		(start 438.2147 65.9948)
+		(end 677.6097 83.7748)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid c5d50f48-5951-4756-a5df-5a8753f959f1)
+	)
+	(rectangle
+		(start 822.452 4.6247)
+		(end 983.107 115.1147)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid c6501b88-7a17-4ef7-9c32-044eca015887)
+	)
+	(rectangle
+		(start 438.277 4.8787)
+		(end 677.672 12.4987)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid df24425c-2a6d-4605-a1ec-b0ed094b1d2c)
+	)
+	(rectangle
+		(start 438.15 119.38)
+		(end 677.545 137.16)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid e84afc92-9854-4c04-8d17-2b73cd641537)
+	)
+	(rectangle
+		(start 497.967 4.8787)
+		(end 531.622 354.7637)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid f5e64431-d57d-44d3-a3fc-a548ba889cda)
+	)
+	(text "Jop"
+		(exclude_from_sim no)
+		(at 452.374 110.4157 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "01755d0e-7f2a-4187-9abb-e425a85108c0")
+	)
+	(text "25/02/2025"
+		(exclude_from_sim no)
+		(at 482.346 93.1437 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "086f07ac-8577-4cc9-9009-c59c48e0aa94")
+	)
+	(text "Ordered"
+		(exclude_from_sim no)
+		(at 582.168 128.27 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+		)
+		(uuid "157446f4-3e7d-4d69-8ad8-ee39f0b8460c")
+	)
+	(text "4A Max, 1A max per module\n\n\n\n\n\nFor 1 oz copper (35 µm thickness) PCB traces at a 10°C temperature rise:\n\nExternal traces carry approximately 2.2A (0.4mm), 2.6A (0.5mm), 3.0A (0.6mm), 3.4A (0.7mm), 3.8A (0.8mm), and 4.2A (0.9mm).\nInternal traces carry approximately 1.2A (0.4mm), 1.5A (0.5mm), 1.8A (0.6mm), 2.1A (0.7mm), 2.4A (0.8mm), and 2.7A (0.9mm).\nFor 2 oz copper (70 µm thickness) PCB traces at a 10°C temperature rise:\n\nExternal traces carry approximately 4.0A (0.4mm), 4.7A (0.5mm), 5.5A (0.6mm), 6.2A (0.7mm), 7.0A (0.8mm), and 7.7A (0.9mm).\nInternal traces carry approximately 2.1A (0.4mm), 2.6A (0.5mm), 3.1A (0.6mm), 3.6A (0.7mm), 4.1A (0.8mm), and 4.6A (0.9mm)."
+		(exclude_from_sim no)
+		(at 892.81 19.4837 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1b0835da-61fb-4ca8-9fa8-e4631cb4e57a")
+	)
+	(text "18/6/2025"
+		(exclude_from_sim no)
+		(at 482.092 147.4997 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "1b2a0d6e-fe68-4d98-915a-e81475ee914d")
+	)
+	(text "22/01/2025"
+		(exclude_from_sim no)
+		(at 483.108 19.2297 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "209edcd5-3c45-4143-8d2f-e071fe69f69b")
+	)
+	(text "- Updated 3d models for M.2 and SWD Connectors"
+		(exclude_from_sim no)
+		(at 588.772 92.6357 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "214ee1ac-f705-4b22-b3a6-3355d8d2b084")
+	)
+	(text "3.0"
+		(exclude_from_sim no)
+		(at 515.874 19.7377 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "21704f2c-57e9-4e0e-9d25-13e704334fe6")
+	)
 	(text "3V3"
 		(exclude_from_sim no)
 		(at 215.646 68.072 0)
@@ -503,6 +763,148 @@
 			)
 		)
 		(uuid "2657c1ee-a16d-4fcd-b4fa-1f5296cc2ebe")
+	)
+	(text "- Fixed resistor divider values \n  (Were reversed order and above 5 volt values were off)"
+		(exclude_from_sim no)
+		(at 539.877 56.6947 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "26b36d80-2008-422d-8604-eb012994a599")
+	)
+	(text "Updates"
+		(exclude_from_sim no)
+		(at 611.886 8.8157 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+			)
+		)
+		(uuid "2a81449b-0862-42bb-b42e-e32a49c85f37")
+	)
+	(text "- SPI Cs rename, and not routed to sensors. We could use GPIO for this\n- New MFR# for M2 stubs\n- Seperated stubs from M.2 footprint\n- ADC and INT to comm module\n- Placed test points closer to edge"
+		(exclude_from_sim no)
+		(at 582.422 110.4157 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+		)
+		(uuid "30c1a2dc-552f-4794-930d-c6b4aca9ae5c")
+	)
+	(text "- Initial Setup"
+		(exclude_from_sim no)
+		(at 554.482 19.4837 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "3426147c-91c5-47bc-be12-8a7a0cf141d4")
+	)
+	(text "Jop"
+		(exclude_from_sim no)
+		(at 452.12 128.27 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "34ec5861-e505-446a-a09b-033a83f48b07")
+	)
+	(text "11/02/2025"
+		(exclude_from_sim no)
+		(at 482.473 39.6767 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "3d712ad1-6237-4910-9a6f-c95d57d5ad96")
+	)
+	(text "21/03/2025"
+		(exclude_from_sim no)
+		(at 482.346 110.9237 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "48f5b28e-3b5b-4dd7-87d3-19888eb582ff")
+	)
+	(text "3.0"
+		(exclude_from_sim no)
+		(at 514.096 93.3977 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "494ba9ef-0540-4f5b-b235-f4bfaeafb24e")
+	)
+	(text "14/04/2025"
+		(exclude_from_sim no)
+		(at 482.092 128.778 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "4f8526c2-7c93-4ca3-bc57-0be5c6a89dd5")
+	)
+	(text "- Solved issue with resistor divider\n- Setup Schematic documentation\n- Setup DRC rules"
+		(exclude_from_sim no)
+		(at 539.877 40.1847 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "5027b6c9-e38b-4f56-8432-a446664e3ad2")
+	)
+	(text "Ordering specifications"
+		(exclude_from_sim no)
+		(at 726.567 -0.7093 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+			)
+		)
+		(uuid "5517eebf-a31d-4e8f-a54a-fa93f74264bc")
+	)
+	(text "Module details\n"
+		(exclude_from_sim no)
+		(at 851.154 -0.2013 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+			)
+		)
+		(uuid "5b54474e-9902-4cca-9047-5dbd1ec4d5e2")
+	)
+	(text "3.0"
+		(exclude_from_sim no)
+		(at 513.9067 75.9008 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "5ca0f925-8489-4d57-9a15-57b9b73042bc")
+	)
+	(text "Victor"
+		(exclude_from_sim no)
+		(at 452.374 92.6357 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "614b44b4-da3a-4abe-95e1-e13698f35dc8")
 	)
 	(text "Trigger input"
 		(exclude_from_sim no)
@@ -516,6 +918,56 @@
 		)
 		(uuid "662a462a-995f-45ad-bfba-76e695586d56")
 	)
+	(text "20/02/2025"
+		(exclude_from_sim no)
+		(at 482.4107 75.6468 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "69c7d813-d764-436c-979b-11129d301256")
+	)
+	(text "- Updated hole location"
+		(exclude_from_sim no)
+		(at 548.894 140.8957 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+		)
+		(uuid "6a183648-3f52-409e-b93f-ab34ccbddaed")
+	)
+	(text "Changelog"
+		(exclude_from_sim no)
+		(at 458.724 0.4337 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+			)
+		)
+		(uuid "6b9404f6-d01c-48b3-90dc-ecf8e52b9a5b")
+	)
+	(text "Version"
+		(exclude_from_sim no)
+		(at 515.62 9.0697 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+			)
+		)
+		(uuid "7571fc71-8fa4-4303-a82a-8267371739d6")
+	)
+	(text "3.0.1"
+		(exclude_from_sim no)
+		(at 513.842 129.032 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "76636f54-d2e7-4345-8f61-79dd553f44a0")
+	)
 	(text "5V Input to 3v3 Conversion"
 		(exclude_from_sim no)
 		(at 194.056 121.92 0)
@@ -525,6 +977,37 @@
 			)
 		)
 		(uuid "7787cb58-cbe5-44f6-8ad1-27e94c0bee44")
+	)
+	(text "3.0"
+		(exclude_from_sim no)
+		(at 514.477 40.1847 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "7fbeec5e-d3e1-4651-8119-90483c68b186")
+	)
+	(text "- Updated connectors to M-key\n- Update so that sensors have 3 gpio (New pinout for MCU!)\n- Cleaned the schematic\n- Complete reroute"
+		(exclude_from_sim no)
+		(at 539.8147 74.6308 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "830a3521-2150-4a0d-b366-390ffe723d91")
+	)
+	(text "Date"
+		(exclude_from_sim no)
+		(at 483.108 8.8157 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+			)
+		)
+		(uuid "9380f4be-7384-41a3-9dbb-04147a6c9989")
 	)
 	(text "3V3"
 		(exclude_from_sim no)
@@ -536,6 +1019,96 @@
 		)
 		(uuid "9df0020e-2745-4786-8127-eecc7ddb62d1")
 	)
+	(text "Marlo"
+		(exclude_from_sim no)
+		(at 453.136 18.7217 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "9fbd183c-1a6d-46c4-ac46-9d31c968ca47")
+	)
+	(text "Marlo"
+		(exclude_from_sim no)
+		(at 452.12 146.9917 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "a8f6eccc-e0cb-426d-a14b-eefb8d439d86")
+	)
+	(text "3.0"
+		(exclude_from_sim no)
+		(at 513.969 57.9647 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "b00b174d-3c7c-4f67-9042-f0214abd0b21")
+	)
+	(text "Name"
+		(exclude_from_sim no)
+		(at 452.628 8.5617 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+			)
+		)
+		(uuid "b028fa6b-13ec-47ed-9da1-819c7f750097")
+	)
+	(text "13/02/2025"
+		(exclude_from_sim no)
+		(at 482.473 57.7107 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "b4c4c350-d354-4240-9b49-87cdba510d14")
+	)
+	(text "Marlo"
+		(exclude_from_sim no)
+		(at 452.501 58.7267 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "c0facdc8-254a-4022-a03a-0a7933793a41")
+	)
+	(text "3.0.1"
+		(exclude_from_sim no)
+		(at 513.842 147.7537 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "cdcb7291-7278-4e64-bb2d-06bf0b1315a7")
+	)
+	(text "3.0.1"
+		(exclude_from_sim no)
+		(at 514.096 111.1777 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "d1ceb754-edd3-496a-93c7-b1dd2e1f89c1")
+	)
+	(text "Jop"
+		(exclude_from_sim no)
+		(at 452.4387 76.6628 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "dd82db1b-82aa-4131-84ab-ed5aecda60f5")
+	)
 	(text "Not isolated, can be done with an external optical isolator"
 		(exclude_from_sim no)
 		(at 92.202 108.712 0)
@@ -545,6 +1118,27 @@
 			)
 		)
 		(uuid "e1f32c9c-bf44-4279-a6bd-19ae96776095")
+	)
+	(text "Jop"
+		(exclude_from_sim no)
+		(at 451.993 39.1687 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "ec8494c7-2c5f-431f-b007-56448a12fce1")
+	)
+	(text "Board thickness: 1.6mm\nImpedance match: No\nBase material: Default\nColor: Default\nOuter copper Weight: Default\nGold fingers: No\nCastellated holes: No\nEdge plating: No"
+		(exclude_from_sim no)
+		(at 685.419 23.9287 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "f5520910-d1f5-473d-96bc-d5044b4d1673")
 	)
 	(junction
 		(at 179.07 123.19)
