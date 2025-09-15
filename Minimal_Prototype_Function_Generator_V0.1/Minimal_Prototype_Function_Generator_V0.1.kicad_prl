@@ -92,18 +92,18 @@
       11
     ],
     "col_widths": [
-      108,
-      98,
-      61,
-      45,
-      61,
-      61,
-      61,
-      47,
-      61,
-      61,
-      61,
-      61
+      72,
+      65,
+      41,
+      30,
+      41,
+      41,
+      41,
+      31,
+      41,
+      41,
+      41,
+      41
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
@@ -119,32 +119,7 @@
   },
   "open_jobsets": [],
   "project": {
-    "files": [
-      {
-        "name": "Minimal_Prototype_Function_Generator_V0.1.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": -8,
-          "pos_y": -8,
-          "size_x": 1936,
-          "size_y": 1056
-        }
-      },
-      {
-        "name": "Minimal_Prototype_Function_Generator_V0.1.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 1,
-          "maximized": true,
-          "pos_x": 1912,
-          "pos_y": -8,
-          "size_x": 1936,
-          "size_y": 1056
-        }
-      }
-    ]
+    "files": []
   },
   "schematic": {
     "selection_filter": {
