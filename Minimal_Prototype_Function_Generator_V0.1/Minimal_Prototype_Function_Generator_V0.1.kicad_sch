@@ -674,59 +674,41 @@
 		)
 		(uuid f5e64431-d57d-44d3-a3fc-a548ba889cda)
 	)
-	(text "Jop"
+	(text "1.0"
 		(exclude_from_sim no)
-		(at 452.374 110.4157 0)
+		(at 514.604 57.658 0)
 		(effects
 			(font
 				(size 2.54 2.54)
 			)
 		)
-		(uuid "01755d0e-7f2a-4187-9abb-e425a85108c0")
+		(uuid "10e2fb47-e482-4a46-b61f-5562c11a4d1a")
 	)
-	(text "25/02/2025"
+	(text "- Updated PCB component placement\n- Recalculated impedance parameters for USB diff. pair\n- Added descriptions to schematics"
 		(exclude_from_sim no)
-		(at 482.346 93.1437 0)
+		(at 534.924 56.896 0)
 		(effects
 			(font
 				(size 2.54 2.54)
 			)
+			(justify left)
 		)
-		(uuid "086f07ac-8577-4cc9-9009-c59c48e0aa94")
+		(uuid "1a0b1973-36f6-4d71-9039-74320286b881")
 	)
-	(text "Ordered"
+	(text "- Input voltage: 5V (from USB-C connector)\n- Expected maximum current consumption: 1500mA\n- Current rating: 5A?\n- A couple of testpoints are available for voltage level testing\n- UART header for debugging\n- I2C and SPI headers for debugging\n- Output 1-4 are function generator outputs after amplification\n- 2 headers for external/internal clock select are available\n"
 		(exclude_from_sim no)
-		(at 582.168 128.27 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-		)
-		(uuid "157446f4-3e7d-4d69-8ad8-ee39f0b8460c")
-	)
-	(text "4A Max, 1A max per module\n\n\n\n\n\nFor 1 oz copper (35 µm thickness) PCB traces at a 10°C temperature rise:\n\nExternal traces carry approximately 2.2A (0.4mm), 2.6A (0.5mm), 3.0A (0.6mm), 3.4A (0.7mm), 3.8A (0.8mm), and 4.2A (0.9mm).\nInternal traces carry approximately 1.2A (0.4mm), 1.5A (0.5mm), 1.8A (0.6mm), 2.1A (0.7mm), 2.4A (0.8mm), and 2.7A (0.9mm).\nFor 2 oz copper (70 µm thickness) PCB traces at a 10°C temperature rise:\n\nExternal traces carry approximately 4.0A (0.4mm), 4.7A (0.5mm), 5.5A (0.6mm), 6.2A (0.7mm), 7.0A (0.8mm), and 7.7A (0.9mm).\nInternal traces carry approximately 2.1A (0.4mm), 2.6A (0.5mm), 3.1A (0.6mm), 3.6A (0.7mm), 4.1A (0.8mm), and 4.6A (0.9mm)."
-		(exclude_from_sim no)
-		(at 892.81 19.4837 0)
+		(at 826.262 16.764 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
+			(justify left)
 		)
 		(uuid "1b0835da-61fb-4ca8-9fa8-e4631cb4e57a")
 	)
-	(text "18/6/2025"
+	(text "05/09/2025"
 		(exclude_from_sim no)
-		(at 482.092 147.4997 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-			)
-		)
-		(uuid "1b2a0d6e-fe68-4d98-915a-e81475ee914d")
-	)
-	(text "22/01/2025"
-		(exclude_from_sim no)
-		(at 483.108 19.2297 0)
+		(at 482.854 21.844 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -734,19 +716,9 @@
 		)
 		(uuid "209edcd5-3c45-4143-8d2f-e071fe69f69b")
 	)
-	(text "- Updated 3d models for M.2 and SWD Connectors"
+	(text "pre-0.1"
 		(exclude_from_sim no)
-		(at 588.772 92.6357 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-			)
-		)
-		(uuid "214ee1ac-f705-4b22-b3a6-3355d8d2b084")
-	)
-	(text "3.0"
-		(exclude_from_sim no)
-		(at 515.874 19.7377 0)
+		(at 514.604 21.336 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -764,16 +736,15 @@
 		)
 		(uuid "2657c1ee-a16d-4fcd-b4fa-1f5296cc2ebe")
 	)
-	(text "- Fixed resistor divider values \n  (Were reversed order and above 5 volt values were off)"
+	(text "11/09/2025"
 		(exclude_from_sim no)
-		(at 539.877 56.6947 0)
+		(at 482.346 40.386 0)
 		(effects
 			(font
 				(size 2.54 2.54)
 			)
-			(justify left)
 		)
-		(uuid "26b36d80-2008-422d-8604-eb012994a599")
+		(uuid "299c30a4-0049-4562-a6ce-ad91ce072523")
 	)
 	(text "Updates"
 		(exclude_from_sim no)
@@ -785,86 +756,37 @@
 		)
 		(uuid "2a81449b-0862-42bb-b42e-e32a49c85f37")
 	)
-	(text "- SPI Cs rename, and not routed to sensors. We could use GPIO for this\n- New MFR# for M2 stubs\n- Seperated stubs from M.2 footprint\n- ADC and INT to comm module\n- Placed test points closer to edge"
+	(text "Ignatijs"
 		(exclude_from_sim no)
-		(at 582.422 110.4157 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-		)
-		(uuid "30c1a2dc-552f-4794-930d-c6b4aca9ae5c")
-	)
-	(text "- Initial Setup"
-		(exclude_from_sim no)
-		(at 554.482 19.4837 0)
+		(at 452.374 57.658 0)
 		(effects
 			(font
 				(size 2.54 2.54)
 			)
 		)
-		(uuid "3426147c-91c5-47bc-be12-8a7a0cf141d4")
+		(uuid "2b7bb8f3-0f43-4f5c-8b1e-aaddaa76f16b")
 	)
-	(text "Jop"
+	(text "- Completed schematics"
 		(exclude_from_sim no)
-		(at 452.12 128.27 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-			)
-		)
-		(uuid "34ec5861-e505-446a-a09b-033a83f48b07")
-	)
-	(text "11/02/2025"
-		(exclude_from_sim no)
-		(at 482.473 39.6767 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-			)
-		)
-		(uuid "3d712ad1-6237-4910-9a6f-c95d57d5ad96")
-	)
-	(text "21/03/2025"
-		(exclude_from_sim no)
-		(at 482.346 110.9237 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-			)
-		)
-		(uuid "48f5b28e-3b5b-4dd7-87d3-19888eb582ff")
-	)
-	(text "3.0"
-		(exclude_from_sim no)
-		(at 514.096 93.3977 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-			)
-		)
-		(uuid "494ba9ef-0540-4f5b-b235-f4bfaeafb24e")
-	)
-	(text "14/04/2025"
-		(exclude_from_sim no)
-		(at 482.092 128.778 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-			)
-		)
-		(uuid "4f8526c2-7c93-4ca3-bc57-0be5c6a89dd5")
-	)
-	(text "- Solved issue with resistor divider\n- Setup Schematic documentation\n- Setup DRC rules"
-		(exclude_from_sim no)
-		(at 539.877 40.1847 0)
+		(at 534.416 17.272 0)
 		(effects
 			(font
 				(size 2.54 2.54)
 			)
 			(justify left)
 		)
-		(uuid "5027b6c9-e38b-4f56-8432-a446664e3ad2")
+		(uuid "3426147c-91c5-47bc-be12-8a7a0cf141d4")
+	)
+	(text "- Initial PCB design, sent for review"
+		(exclude_from_sim no)
+		(at 535.432 36.068 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "3e4b60ed-6640-4c0d-930c-1fd9b5d9ae41")
 	)
 	(text "Ordering specifications"
 		(exclude_from_sim no)
@@ -886,26 +808,6 @@
 		)
 		(uuid "5b54474e-9902-4cca-9047-5dbd1ec4d5e2")
 	)
-	(text "3.0"
-		(exclude_from_sim no)
-		(at 513.9067 75.9008 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-			)
-		)
-		(uuid "5ca0f925-8489-4d57-9a15-57b9b73042bc")
-	)
-	(text "Victor"
-		(exclude_from_sim no)
-		(at 452.374 92.6357 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-			)
-		)
-		(uuid "614b44b4-da3a-4abe-95e1-e13698f35dc8")
-	)
 	(text "Trigger input"
 		(exclude_from_sim no)
 		(at 162.814 110.998 0)
@@ -917,26 +819,6 @@
 			)
 		)
 		(uuid "662a462a-995f-45ad-bfba-76e695586d56")
-	)
-	(text "20/02/2025"
-		(exclude_from_sim no)
-		(at 482.4107 75.6468 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-			)
-		)
-		(uuid "69c7d813-d764-436c-979b-11129d301256")
-	)
-	(text "- Updated hole location"
-		(exclude_from_sim no)
-		(at 548.894 140.8957 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-		)
-		(uuid "6a183648-3f52-409e-b93f-ab34ccbddaed")
 	)
 	(text "Changelog"
 		(exclude_from_sim no)
@@ -958,16 +840,6 @@
 		)
 		(uuid "7571fc71-8fa4-4303-a82a-8267371739d6")
 	)
-	(text "3.0.1"
-		(exclude_from_sim no)
-		(at 513.842 129.032 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-			)
-		)
-		(uuid "76636f54-d2e7-4345-8f61-79dd553f44a0")
-	)
 	(text "5V Input to 3v3 Conversion"
 		(exclude_from_sim no)
 		(at 194.056 121.92 0)
@@ -978,26 +850,25 @@
 		)
 		(uuid "7787cb58-cbe5-44f6-8ad1-27e94c0bee44")
 	)
-	(text "3.0"
+	(text "0.1"
 		(exclude_from_sim no)
-		(at 514.477 40.1847 0)
+		(at 514.096 39.878 0)
 		(effects
 			(font
 				(size 2.54 2.54)
 			)
 		)
-		(uuid "7fbeec5e-d3e1-4651-8119-90483c68b186")
+		(uuid "80d5dfb4-ab33-4e06-af86-f00f506064b7")
 	)
-	(text "- Updated connectors to M-key\n- Update so that sensors have 3 gpio (New pinout for MCU!)\n- Cleaned the schematic\n- Complete reroute"
+	(text "15/09/2025"
 		(exclude_from_sim no)
-		(at 539.8147 74.6308 0)
+		(at 482.854 58.166 0)
 		(effects
 			(font
 				(size 2.54 2.54)
 			)
-			(justify left)
 		)
-		(uuid "830a3521-2150-4a0d-b366-390ffe723d91")
+		(uuid "8d158c2f-a031-4ee4-bed8-219ad4add075")
 	)
 	(text "Date"
 		(exclude_from_sim no)
@@ -1019,35 +890,15 @@
 		)
 		(uuid "9df0020e-2745-4786-8127-eecc7ddb62d1")
 	)
-	(text "Marlo"
+	(text "Jop"
 		(exclude_from_sim no)
-		(at 453.136 18.7217 0)
+		(at 452.374 21.336 0)
 		(effects
 			(font
 				(size 2.54 2.54)
 			)
 		)
 		(uuid "9fbd183c-1a6d-46c4-ac46-9d31c968ca47")
-	)
-	(text "Marlo"
-		(exclude_from_sim no)
-		(at 452.12 146.9917 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-			)
-		)
-		(uuid "a8f6eccc-e0cb-426d-a14b-eefb8d439d86")
-	)
-	(text "3.0"
-		(exclude_from_sim no)
-		(at 513.969 57.9647 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-			)
-		)
-		(uuid "b00b174d-3c7c-4f67-9042-f0214abd0b21")
 	)
 	(text "Name"
 		(exclude_from_sim no)
@@ -1059,56 +910,6 @@
 		)
 		(uuid "b028fa6b-13ec-47ed-9da1-819c7f750097")
 	)
-	(text "13/02/2025"
-		(exclude_from_sim no)
-		(at 482.473 57.7107 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-			)
-		)
-		(uuid "b4c4c350-d354-4240-9b49-87cdba510d14")
-	)
-	(text "Marlo"
-		(exclude_from_sim no)
-		(at 452.501 58.7267 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-			)
-		)
-		(uuid "c0facdc8-254a-4022-a03a-0a7933793a41")
-	)
-	(text "3.0.1"
-		(exclude_from_sim no)
-		(at 513.842 147.7537 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-			)
-		)
-		(uuid "cdcb7291-7278-4e64-bb2d-06bf0b1315a7")
-	)
-	(text "3.0.1"
-		(exclude_from_sim no)
-		(at 514.096 111.1777 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-			)
-		)
-		(uuid "d1ceb754-edd3-496a-93c7-b1dd2e1f89c1")
-	)
-	(text "Jop"
-		(exclude_from_sim no)
-		(at 452.4387 76.6628 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-			)
-		)
-		(uuid "dd82db1b-82aa-4131-84ab-ed5aecda60f5")
-	)
 	(text "Not isolated, can be done with an external optical isolator"
 		(exclude_from_sim no)
 		(at 92.202 108.712 0)
@@ -1119,17 +920,7 @@
 		)
 		(uuid "e1f32c9c-bf44-4279-a6bd-19ae96776095")
 	)
-	(text "Jop"
-		(exclude_from_sim no)
-		(at 451.993 39.1687 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-			)
-		)
-		(uuid "ec8494c7-2c5f-431f-b007-56448a12fce1")
-	)
-	(text "Board thickness: 1.6mm\nImpedance match: No\nBase material: Default\nColor: Default\nOuter copper Weight: Default\nGold fingers: No\nCastellated holes: No\nEdge plating: No"
+	(text "Board thickness: 1.6mm\nImpedance match: Yes (for USB2.0 differential pair)\nBase material: Default\nColor: Default\nOuter copper Weight: Default\nGold fingers: No\nCastellated holes: No\nEdge plating: No"
 		(exclude_from_sim no)
 		(at 685.419 23.9287 0)
 		(effects
@@ -1139,6 +930,16 @@
 			(justify left)
 		)
 		(uuid "f5520910-d1f5-473d-96bc-d5044b4d1673")
+	)
+	(text "Ignatijs"
+		(exclude_from_sim no)
+		(at 451.866 39.878 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "f74213d2-c928-4dff-a039-b0a678eb6bab")
 	)
 	(junction
 		(at 179.07 123.19)
