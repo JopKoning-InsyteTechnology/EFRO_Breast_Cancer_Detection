@@ -5165,7 +5165,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 39.624 35.306 0)
 			(effects
 				(font
@@ -5594,7 +5594,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 75.184 35.306 0)
 			(effects
 				(font
@@ -5882,7 +5882,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7u"
+		(property "Value" "4.7uF"
 			(at 96.52 35.306 0)
 			(effects
 				(font
@@ -6266,7 +6266,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 127 35.306 0)
 			(effects
 				(font
@@ -7058,7 +7058,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 63.754 35.306 0)
 			(effects
 				(font
@@ -7410,7 +7410,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1uF"
 			(at 116.586 35.052 0)
 			(effects
 				(font
@@ -7851,7 +7851,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 52.324 35.306 0)
 			(effects
 				(font
@@ -8359,7 +8359,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" " C23162"
+		(property "LCSC Part #" ""
 			(at 97.79 72.39 0)
 			(effects
 				(font
@@ -8568,7 +8568,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 28.194 35.306 0)
 			(effects
 				(font
@@ -9080,7 +9080,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1uF"
 			(at 140.716 35.052 0)
 			(effects
 				(font
@@ -9229,7 +9229,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.01u"
+		(property "Value" "0.01uF"
 			(at 101.854 35.306 0)
 			(effects
 				(font
@@ -9489,7 +9489,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" " C23162"
+		(property "LCSC Part #" ""
 			(at 97.79 64.77 0)
 			(effects
 				(font
